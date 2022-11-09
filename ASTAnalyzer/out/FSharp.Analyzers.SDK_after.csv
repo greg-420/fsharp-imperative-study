@@ -1,0 +1,3 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/FSharp.Analyzers.SDK/after\47d6e40574da272069a457586f472a1ecedca8a8\FSharp.Analyzers.SDK.fs', 0, 0, 0, 0, 0, 0, 243
+'../in/flagged_repos/FSharp.Analyzers.SDK/after\47d6e40574da272069a457586f472a1ecedca8a8\Library.fs', 0, 1, 1, 0, 0, 0, 1514

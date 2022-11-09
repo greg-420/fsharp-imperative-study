@@ -1,0 +1,8 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/ui/after\54ef725a35aafe464a37c782e6917a1780ad05e4\TemplatingProvider.fs', 0, 10, 9, 5, 13, 1, 7896
+'../in/flagged_repos/ui/after\7eeccc19351427e38e67ac5bbd64fcff5d3b461c\Attr.Client.fs', 28, 1, 0, 1, 0, 0, 4427
+'../in/flagged_repos/ui/after\7eeccc19351427e38e67ac5bbd64fcff5d3b461c\HTML.Proxy.fs', 0, 0, 0, 0, 0, 0, 6644
+'../in/flagged_repos/ui/after\d14537ed6657319b76d44298d2b9c0df7ce2f839\HTML.Client.fs', 0, 0, 0, 0, 0, 0, 30943
+'../in/flagged_repos/ui/after\d14537ed6657319b76d44298d2b9c0df7ce2f839\Main.fs', 51, 4, 2, 1, 0, 0, 5876
+'../in/flagged_repos/ui/after\e05ad1b084c849219760ebcc0152972d3f6611e8\Main.fs', 51, 4, 2, 0, 0, 0, 5371
+'../in/flagged_repos/ui/after\e05ad1b084c849219760ebcc0152972d3f6611e8\Reactive.fs', 39, 1, 0, 2, 2, 0, 5356

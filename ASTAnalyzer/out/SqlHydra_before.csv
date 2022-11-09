@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/SqlHydra/before\2005f33d33b207cf7c58eec3611f880d5cf704aa\Fixes.fs', 0, 1, 1, 3, 1, 0, 307
+'../in/flagged_repos/SqlHydra/before\2005f33d33b207cf7c58eec3611f880d5cf704aa\Kata.fs', 0, 0, 0, 0, 5, 0, 2216
+'../in/flagged_repos/SqlHydra/before\2005f33d33b207cf7c58eec3611f880d5cf704aa\QueryContext.fs', 24, 4, 3, 3, 2, 0, 3261

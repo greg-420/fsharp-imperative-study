@@ -1,0 +1,6 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/cwtools/after\06ef3433b8ba05d65c88b216f94d8fa6f6d14e1a\CWToolsCLI.fs', 1, 0, 0, 0, 6, 1, 4929
+'../in/flagged_repos/cwtools/after\06ef3433b8ba05d65c88b216f94d8fa6f6d14e1a\Serializer.fs', 4, 1, 0, 0, 1, 1, 4939
+'../in/flagged_repos/cwtools/after\22cfb63bbff5ea1d59fb6967d0c32b05e643437e\Localisation.fs', 6, 1, 0, 0, 3, 1, 843
+'../in/flagged_repos/cwtools/after\2d7254c04cde19258c9d3ad12af0f4c21cfe17a7\BaseViewModel.fs', 0, 0, 0, 0, 0, 1, 327
+'../in/flagged_repos/cwtools/after\e6b00ecc768f8a9e9bc6516149bc7736ad614471\HomeController.fs', 2, 0, 0, 2, 0, 1, 1331

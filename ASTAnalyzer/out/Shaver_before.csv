@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Shaver/before\3867ac26e2eec8097479316fb06020329f23639c\Razor.fs', 13, 3, 3, 0, 1, 1, 1061
+'../in/flagged_repos/Shaver/before\f34a97fe8cce8336ce25f37bfcb23c223522c35a\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 76
+'../in/flagged_repos/Shaver/before\f34a97fe8cce8336ce25f37bfcb23c223522c35a\Razor.fs', 0, 0, 0, 0, 0, 0, 715

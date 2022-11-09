@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Xake/before\2230df7c9ce4e6e9a843d6d57210c391da6f0cfb\FileTasks.fs', 0, 0, 0, 0, 0, 1, 412
+'../in/flagged_repos/Xake/before\43c0bb99aed2bf6bb4af95d14fa4aeee6d7cca3c\DotNetFwk.fs', 2, 0, 0, 0, 4, 2, 2040
+'../in/flagged_repos/Xake/before\c84e230d134166aa34841e8ab66c27aae69f3e3f\DotNetFwk.fs', 2, 1, 0, 0, 4, 2, 2230

@@ -1,0 +1,13 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/froto/before\40a86c726a95abca52dd1fece35727c497f6b86a\Parser.fs', 3, 3, 0, 0, 1, 0, 4998
+'../in/flagged_repos/froto/before\40a86c726a95abca52dd1fece35727c497f6b86a\TestParser.fs', 0, 0, 0, 0, 0, 1, 6654
+'../in/flagged_repos/froto/before\bc9d38da0feeaaceea42090089391181d4594a49\Ast.fs', 0, 0, 0, 0, 0, 0, 2010
+'../in/flagged_repos/froto/before\bc9d38da0feeaaceea42090089391181d4594a49\Parser.fs', 2, 2, 0, 0, 1, 0, 4903
+'../in/flagged_repos/froto/before\bc9d38da0feeaaceea42090089391181d4594a49\TestClassModel.fs', 0, 0, 0, 0, 0, 1, 1162
+'../in/flagged_repos/froto/before\bc9d38da0feeaaceea42090089391181d4594a49\TestParser.fs', 0, 0, 0, 0, 0, 1, 4990
+'../in/flagged_repos/froto/before\bc9d38da0feeaaceea42090089391181d4594a49\TypeGen.fs', 0, 2, 2, 0, 2, 0, 2253
+'../in/flagged_repos/froto/before\ca65a0f6974b4ee9e4f0c143e620428f6b9e7e82\ExampleProtoClass.fs', 18, 2, 2, 0, 0, 0, 1413
+'../in/flagged_repos/froto/before\ca65a0f6974b4ee9e4f0c143e620428f6b9e7e82\ExampleProtoRecord.fs', 0, 2, 2, 0, 0, 0, 1074
+'../in/flagged_repos/froto/before\ca65a0f6974b4ee9e4f0c143e620428f6b9e7e82\Serialization.fs', 0, 0, 0, 0, 3, 0, 1521
+'../in/flagged_repos/froto/before\ca65a0f6974b4ee9e4f0c143e620428f6b9e7e82\TestClassSerialization.fs', 19, 0, 0, 5, 0, 0, 1989
+'../in/flagged_repos/froto/before\ca65a0f6974b4ee9e4f0c143e620428f6b9e7e82\TestSerialization.fs', 0, 0, 0, 5, 0, 0, 1475

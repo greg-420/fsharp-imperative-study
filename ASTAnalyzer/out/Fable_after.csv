@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Fable/after\0b7fcd39ebe91bee81579c4f96b51000defaec4f\QuickTest.fs', 0, 0, 0, 0, 2, 0, 328
+'../in/flagged_repos/Fable/after\0b7fcd39ebe91bee81579c4f96b51000defaec4f\RecordTypeTests.fs', 2, 0, 0, 0, 0, 0, 1276
+'../in/flagged_repos/Fable/after\b89698206160acae01fcf35ae889844ee97ff513\FSharp2Fable.fs', 3, 0, 1, 0, 23, 1, 16323
+'../in/flagged_repos/Fable/after\f788de2a5546601ff536c0ee54a978f60bc4b2c8\app.fs', 0, 1, 1, 1, 2, 0, 1854

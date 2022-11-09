@@ -1,0 +1,9 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/gluon/before\91ba5ee7270f4e92b1c9d4530d07fab060216814\Startup.fs', 1, 1, 3, 1, 0, 0, 1112
+'../in/flagged_repos/gluon/before\91ba5ee7270f4e92b1c9d4530d07fab060216814\TypeScript.CodeGen.fs', 0, 4, 14, 0, 0, 0, 2440
+'../in/flagged_repos/gluon/before\f52a72c923392c423dd2cd6137bebc847030c856\CodeGenTests.fs', 0, 0, 0, 0, 4, 0, 498
+'../in/flagged_repos/gluon/before\f52a72c923392c423dd2cd6137bebc847030c856\Library1.fs', 0, 0, 0, 0, 0, 0, 71
+'../in/flagged_repos/gluon/before\f52a72c923392c423dd2cd6137bebc847030c856\Schema.fs', 0, 3, 3, 0, 1, 0, 1775
+'../in/flagged_repos/gluon/before\f52a72c923392c423dd2cd6137bebc847030c856\Startup.fs', 1, 1, 3, 1, 0, 0, 1287
+'../in/flagged_repos/gluon/before\f52a72c923392c423dd2cd6137bebc847030c856\TypeScript.CodeGen.fs', 0, 4, 15, 0, 0, 0, 2828
+'../in/flagged_repos/gluon/before\f52a72c923392c423dd2cd6137bebc847030c856\TypeScript.fs', 0, 0, 0, 0, 0, 1, 683

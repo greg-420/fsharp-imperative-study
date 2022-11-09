@@ -1,0 +1,10 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/aardvark.media/before\7e0bfc815aaa75e49eaacab03263ba811afc2703\CameraController.fs', 0, 2, 0, 0, 1, 0, 5420
+'../in/flagged_repos/aardvark.media/before\7e0bfc815aaa75e49eaacab03263ba811afc2703\CameraModel.fs', 0, 0, 0, 0, 0, 0, 231
+'../in/flagged_repos/aardvark.media/before\7e0bfc815aaa75e49eaacab03263ba811afc2703\CameraModel.g.fs', 2, 0, 0, 0, 0, 0, 2891
+'../in/flagged_repos/aardvark.media/before\7e0bfc815aaa75e49eaacab03263ba811afc2703\ComposedViewer.fs', 0, 1, 1, 1, 1, 0, 7377
+'../in/flagged_repos/aardvark.media/before\7e0bfc815aaa75e49eaacab03263ba811afc2703\Viewer.fs', 2, 2, 2, 0, 0, 1, 2468
+'../in/flagged_repos/aardvark.media/before\a96c6b011f60d7f1afcefbfc546e5c1e57bbfa44\Core.fs', 49, 11, 11, 0, 3, 0, 13783
+'../in/flagged_repos/aardvark.media/before\b3d08440dcc48ee8349ca78f7c653c3eaf6825b2\FileSystem.fs', 0, 0, 0, 3, 3, 1, 2011
+'../in/flagged_repos/aardvark.media/before\b7578bc22a2260a7df48e241e64326b7c9e4699a\Core.fs', 49, 11, 11, 0, 3, 0, 13803
+'../in/flagged_repos/aardvark.media/before\b7578bc22a2260a7df48e241e64326b7c9e4699a\Server.fs', 107, 4, 3, 5, 14, 3, 19736

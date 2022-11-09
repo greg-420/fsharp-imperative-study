@@ -1,0 +1,10 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/nosln/after\1042ad3f31ad366090f878287f1e627db37b9b58\Utils.fs', 2, 0, 0, 0, 2, 1, 738
+'../in/flagged_repos/nosln/after\7485df698aeece9ccb190c2f6525354e0328fae6\Tests.fs', 0, 0, 0, 0, 0, 0, 381
+'../in/flagged_repos/nosln/after\b49db2ad09c0e647a865c4878425745289fc9a5d\Cli.fs', 0, 0, 0, 0, 0, 1, 1167
+'../in/flagged_repos/nosln/after\b49db2ad09c0e647a865c4878425745289fc9a5d\Core.fs', 3, 4, 4, 0, 1, 1, 1778
+'../in/flagged_repos/nosln/after\b49db2ad09c0e647a865c4878425745289fc9a5d\Utils.fs', 2, 0, 0, 0, 2, 1, 709
+'../in/flagged_repos/nosln/after\c068ef1bfab726d8318ee7f407b83210c2ad4dd5\Core.fs', 3, 4, 4, 0, 1, 1, 1937
+'../in/flagged_repos/nosln/after\c068ef1bfab726d8318ee7f407b83210c2ad4dd5\Formatter.fs', 0, 7, 7, 0, 0, 0, 814
+'../in/flagged_repos/nosln/after\fcd60e93297cec7e9c1202be763f19440915cca4\Cli.fs', 0, 0, 0, 0, 0, 1, 1199
+'../in/flagged_repos/nosln/after\fcd60e93297cec7e9c1202be763f19440915cca4\Formatter.fs', 0, 7, 7, 0, 0, 0, 686

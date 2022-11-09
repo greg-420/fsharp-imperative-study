@@ -1,0 +1,3 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/ionide-vscode-fsharp/before\cc4fdbf90a33a91b305f74c36ec3634cb5744e95\LanguageService.fs', 9, 0, 0, 1, 3, 0, 5411
+'../in/flagged_repos/ionide-vscode-fsharp/before\cc4fdbf90a33a91b305f74c36ec3634cb5744e95\SignatureData.fs', 0, 0, 0, 1, 0, 0, 501

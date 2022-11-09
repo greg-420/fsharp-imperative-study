@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/DiffSharp/before\10bd8edbd5f0a13489931a75fdd21363a70c461e\AD.fs', 128, 0, 0, 5, 5, 0, 16511
+'../in/flagged_repos/DiffSharp/before\10bd8edbd5f0a13489931a75fdd21363a70c461e\AssemblyInfo.fs', 0, 0, 0, 0, 0, 0, 166
+'../in/flagged_repos/DiffSharp/before\92fced2ea64e111120bbe828c33d2020d5a6bdad\AD.Float32.fs', 271, 16, 16, 6, 49, 0, 75135
+'../in/flagged_repos/DiffSharp/before\92fced2ea64e111120bbe828c33d2020d5a6bdad\AD.Float64.fs', 271, 16, 16, 6, 49, 0, 75135

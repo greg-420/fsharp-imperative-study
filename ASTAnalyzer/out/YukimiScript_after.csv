@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/YukimiScript/after\6a30928aaad213c32eeb47068e08fa793f8c90c9\Compile.fs', 0, 0, 0, 0, 2, 1, 838
+'../in/flagged_repos/YukimiScript/after\6a30928aaad213c32eeb47068e08fa793f8c90c9\Utils.fs', 0, 0, 0, 0, 2, 0, 348
+'../in/flagged_repos/YukimiScript/after\939710acd6a3449b879f57b7ca6d5694a7479719\Lua.fs', 0, 0, 0, 0, 1, 0, 531
+'../in/flagged_repos/YukimiScript/after\939710acd6a3449b879f57b7ca6d5694a7479719\Program.fs', 0, 0, 0, 0, 1, 2, 1121

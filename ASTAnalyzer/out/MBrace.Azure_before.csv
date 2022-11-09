@@ -1,0 +1,6 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/MBrace.Azure/before\58cb62e5764e845232369be7a4524b970a26ab17\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 117
+'../in/flagged_repos/MBrace.Azure/before\58cb62e5764e845232369be7a4524b970a26ab17\Compute.fs', 0, 1, 0, 3, 2, 1, 3913
+'../in/flagged_repos/MBrace.Azure/before\58cb62e5764e845232369be7a4524b970a26ab17\Management.fs', 2, 0, 0, 2, 0, 0, 5047
+'../in/flagged_repos/MBrace.Azure/before\73f733dc0e67f0a4a08f0024d64656ba4a51087f\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 117
+'../in/flagged_repos/MBrace.Azure/before\ebd73e87d1269179658146f04be8887ca67a506d\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 181

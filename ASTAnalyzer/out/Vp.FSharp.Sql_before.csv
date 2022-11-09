@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Vp.FSharp.Sql/before\f22a25d1864dce7c51c2235c118a4c81404a534e\Mocks.fs', 14, 0, 0, 0, 7, 0, 2025
+'../in/flagged_repos/Vp.FSharp.Sql/before\f22a25d1864dce7c51c2235c118a4c81404a534e\SqlCommand for querySeqSync should.fs', 0, 0, 0, 0, 0, 0, 2791
+'../in/flagged_repos/Vp.FSharp.Sql/before\f22a25d1864dce7c51c2235c118a4c81404a534e\SqlCommand.fs', 8, 0, 0, 0, 12, 0, 4837

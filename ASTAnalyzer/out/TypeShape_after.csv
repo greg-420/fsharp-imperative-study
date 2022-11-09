@@ -1,0 +1,9 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/TypeShape/after\59e0226d2ba30e013c1969c7a476485724b15718\Tests.fs', 0, 0, 0, 0, 0, 2, 11449
+'../in/flagged_repos/TypeShape/after\59e0226d2ba30e013c1969c7a476485724b15718\TypeShape.fs', 0, 0, 0, 81, 5, 0, 22191
+'../in/flagged_repos/TypeShape/after\93b6d0e78af1bb4886d48aa76521e7a1874f1dd6\TypeShape.fs', 13, 7, 7, 55, 6, 0, 18300
+'../in/flagged_repos/TypeShape/after\9f34947be23e3383a73539bc8a4033e49bc6ead2\HKT.fs', 0, 0, 0, 0, 0, 0, 586
+'../in/flagged_repos/TypeShape/after\b13a1a0cbc1cbb8d4dd1b787896baf7790d568e6\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 125
+'../in/flagged_repos/TypeShape/after\b13a1a0cbc1cbb8d4dd1b787896baf7790d568e6\Clone.fs', 10, 5, 5, 0, 1, 0, 1228
+'../in/flagged_repos/TypeShape/after\b13a1a0cbc1cbb8d4dd1b787896baf7790d568e6\TypeCache.fs', 6, 0, 0, 0, 0, 0, 635
+'../in/flagged_repos/TypeShape/after\ff6992dfd1d48079d6e1890aa58efe9a6f1f312e\TypeShape.fs', 13, 7, 7, 54, 7, 0, 18449

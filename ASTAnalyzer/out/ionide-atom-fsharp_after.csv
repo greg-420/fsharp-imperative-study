@@ -1,0 +1,6 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/ionide-atom-fsharp/after\2cc535f848ea5537ad998063d609d95c5febf98a\Tooltips.fs', 9, 0, 0, 0, 0, 0, 1126
+'../in/flagged_repos/ionide-atom-fsharp/after\6d5aa9aba505d507020a2feb17fc0443601deaed\Bindings.fs', 0, 0, 0, 0, 45, 0, 1903
+'../in/flagged_repos/ionide-atom-fsharp/after\6d5aa9aba505d507020a2feb17fc0443601deaed\Events.fs', 5, 0, 0, 0, 1, 0, 537
+'../in/flagged_repos/ionide-atom-fsharp/after\6d5aa9aba505d507020a2feb17fc0443601deaed\FAKE.fs', 8, 4, 0, 1, 0, 0, 2076
+'../in/flagged_repos/ionide-atom-fsharp/after\6d5aa9aba505d507020a2feb17fc0443601deaed\main.fs', 0, 3, 7, 2, 0, 2, 779

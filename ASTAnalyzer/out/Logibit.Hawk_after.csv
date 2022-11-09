@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Logibit.Hawk/after\2b84f8397d5370da890548143aa30cfd254a272e\Crypto.fs', 1, 0, 0, 2, 0, 0, 699
+'../in/flagged_repos/Logibit.Hawk/after\bc9047e51e622cecb69c52fa8321b1e0838a5f05\Client.header.fs', 0, 0, 0, 1, 0, 0, 1128
+'../in/flagged_repos/Logibit.Hawk/after\bc9047e51e622cecb69c52fa8321b1e0838a5f05\Crypto.fs', 1, 0, 0, 1, 0, 0, 649
+'../in/flagged_repos/Logibit.Hawk/after\dddd8f84c2d693f8b47bcf92109cbc8c0396c2d7\Bewit.fs', 13, 0, 0, 5, 0, 0, 2561

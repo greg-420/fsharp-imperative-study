@@ -1,0 +1,15 @@
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\FSComp.fs
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\FSIstrings.fs
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\UtilsStrings.fs
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\FSComp.resx
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\FSIstrings.resx
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\UtilsStrings.resx
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\ASTAnalyzer.fsproj.AssemblyReference.cache
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\FSComp.resources
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\FSIstrings.resources
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\UtilsStrings.resources
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\ASTAnalyzer.paket_files.dotnet.fsharp.src.Compiler.FSStrings.resources
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\ASTAnalyzer.FSStrings.resources
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\ASTAnalyzer.fsproj.GenerateResource.cache
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\ASTAnalyzer.AssemblyInfoInputs.cache
+C:\Users\ggz21\OneDrive\Documents\capstone\code\ASTAnalyzer\generated\net6.0\ASTAnalyzer.AssemblyInfo.fs

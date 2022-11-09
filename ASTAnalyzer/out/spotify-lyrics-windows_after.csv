@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/spotify-lyrics-windows/after\e7930ad9258aa2854e4146dedc37c30a05f29846\JSON.fs', 22, 5, 5, 0, 2, 0, 1016
+'../in/flagged_repos/spotify-lyrics-windows/after\e7930ad9258aa2854e4146dedc37c30a05f29846\MainWindow.fs', 50, 7, 1, 0, 0, 0, 2599
+'../in/flagged_repos/spotify-lyrics-windows/after\e7930ad9258aa2854e4146dedc37c30a05f29846\MusixMatch.fs', 2, 2, 1, 1, 2, 1, 1073

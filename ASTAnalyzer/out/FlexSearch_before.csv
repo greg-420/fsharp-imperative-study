@@ -1,0 +1,3 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/FlexSearch/before\452eef8aaea64d12f639cecc489c1ad35bcd465a\Compiler.fs', 2, 1, 1, 1, 0, 1, 799
+'../in/flagged_repos/FlexSearch/before\effdddb52569a36f337a55753fae6d9a570b3846\IndexWriter.fs', 4, 1, 1, 0, 2, 1, 2600

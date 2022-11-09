@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/dotnet-wtrace/before\3ed42b4e2a1f8316d597e3c3addf24f9117e33a9\Default.fs', 1, 0, 0, 2, 0, 0, 1292
+'../in/flagged_repos/dotnet-wtrace/before\3ed42b4e2a1f8316d597e3c3addf24f9117e33a9\EventPipeTraceSession.fs', 4, 0, 0, 4, 2, 1, 1071
+'../in/flagged_repos/dotnet-wtrace/before\3ed42b4e2a1f8316d597e3c3addf24f9117e33a9\GC.fs', 0, 0, 0, 2, 0, 0, 2784

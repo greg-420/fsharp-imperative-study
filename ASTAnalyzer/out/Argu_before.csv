@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Argu/before\9adb3beba259883dd5dfb11da73a03d118fefe1c\ArgumentParser.fs', 0, 1, 0, 0, 4, 1, 2834
+'../in/flagged_repos/Argu/before\9adb3beba259883dd5dfb11da73a03d118fefe1c\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 62
+'../in/flagged_repos/Argu/before\9adb3beba259883dd5dfb11da73a03d118fefe1c\Utils.fs', 26, 11, 10, 8, 2, 1, 3576
+'../in/flagged_repos/Argu/before\dded46c74e3f204ec3e5dadbc96f149b6a6d2ef2\ArgumentParser.fs', 0, 0, 0, 0, 3, 1, 2731

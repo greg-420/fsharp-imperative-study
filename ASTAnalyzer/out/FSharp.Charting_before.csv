@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/FSharp.Charting/before\64e956d2c88c5f801c155672a1bae8d73ceb864d\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 76
+'../in/flagged_repos/FSharp.Charting/before\64e956d2c88c5f801c155672a1bae8d73ceb864d\AssemblyInfo.Gtk.fs', 0, 1, 0, 0, 0, 0, 76
+'../in/flagged_repos/FSharp.Charting/before\64e956d2c88c5f801c155672a1bae8d73ceb864d\FSharp.Charting.fs', 55, 15, 8, 10, 4, 4, 43643

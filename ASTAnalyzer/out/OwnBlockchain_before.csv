@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/OwnBlockchain/before\fa04c3a42077558b7334170b764bd371bb788e94\Cli.fs', 0, 0, 0, 0, 0, 0, 195
+'../in/flagged_repos/OwnBlockchain/before\fa04c3a42077558b7334170b764bd371bb788e94\Composition.fs', 0, 0, 0, 0, 0, 0, 1033
+'../in/flagged_repos/OwnBlockchain/before\fa04c3a42077558b7334170b764bd371bb788e94\Peers.fs', 2, 1, 1, 0, 3, 0, 4127
+'../in/flagged_repos/OwnBlockchain/before\fa04c3a42077558b7334170b764bd371bb788e94\Transport.fs', 2, 0, 0, 0, 0, 0, 637

@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/FSharpLint/after\7a8d57126de10715fd858f17f3713da6c27940a1\AstInfo.fs', 0, 0, 0, 0, 0, 0, 1793
+'../in/flagged_repos/FSharpLint/after\7a8d57126de10715fd858f17f3713da6c27940a1\TestNameConventionRules.fs', 0, 0, 0, 0, 0, 0, 4063
+'../in/flagged_repos/FSharpLint/after\9b6621feda661ed4d89068507ab02a6374d4699d\Configuration.fs', 6, 0, 0, 18, 3, 2, 7242

@@ -1,0 +1,9 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/MBrace.Core/before\094fb46c952c832c55b52ea36f1cf657f079496b\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 94
+'../in/flagged_repos/MBrace.Core/before\261e5885fdb5a3c7315fd211a40cc77373bc13a1\CloudCollection.fs', 0, 2, 3, 8, 0, 0, 1463
+'../in/flagged_repos/MBrace.Core/before\7626ee3674210ed314ec20d3003ea9cd69b8e640\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 94
+'../in/flagged_repos/MBrace.Core/before\7626ee3674210ed314ec20d3003ea9cd69b8e640\FileStoreTests.fs', 5, 10, 4, 7, 1, 3, 3770
+'../in/flagged_repos/MBrace.Core/before\af91cc9b415dcb3fd6075dc38987823cb26b8b6c\Utils.fs', 4, 4, 3, 0, 0, 0, 392
+'../in/flagged_repos/MBrace.Core/before\ca4ee532d1809d9b4eca5e59d8c421b7a6d31159\CloudFileStore.fs', 4, 2, 1, 3, 0, 5, 5506
+'../in/flagged_repos/MBrace.Core/before\e7f280d93b3f8566b871254bd5125a0c1abf5e24\CloudFileStoreTests.fs', 4, 25, 11, 10, 2, 3, 5965
+'../in/flagged_repos/MBrace.Core/before\e7f280d93b3f8566b871254bd5125a0c1abf5e24\FileSystemStore.fs', 0, 0, 0, 0, 9, 1, 2456

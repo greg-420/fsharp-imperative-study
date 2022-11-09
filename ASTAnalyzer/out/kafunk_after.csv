@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/kafunk/after\65ebbee7a0e802fc7a43e20aab844246a346f206\Compression.fs', 4, 2, 0, 2, 2, 4, 1780
+'../in/flagged_repos/kafunk/after\65ebbee7a0e802fc7a43e20aab844246a346f206\Protocol.fs', 25, 16, 16, 1, 5, 0, 13117
+'../in/flagged_repos/kafunk/after\db4017164fe4a0cd15b3ca4005c27612a0686f7e\Protocol.fs', 35, 24, 24, 3, 11, 0, 19594

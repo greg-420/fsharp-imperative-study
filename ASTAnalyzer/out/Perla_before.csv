@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Perla/before\5881e89a544bc3020ae2e00e46b3755a05a747cd\Build.fs', 3, 7, 7, 8, 7, 3, 3273
+'../in/flagged_repos/Perla/before\5881e89a544bc3020ae2e00e46b3755a05a747cd\Server.fs', 15, 4, 4, 1, 3, 1, 5255
+'../in/flagged_repos/Perla/before\9a6e8a60c8cad6bd8fcea39225f848882111c020\Server.fs', 15, 4, 4, 1, 3, 1, 5317

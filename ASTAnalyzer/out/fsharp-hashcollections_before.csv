@@ -1,0 +1,12 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/fsharp-hashcollections/before\2b8478068ed3a50c8e940e0bd669b7efd504b719\HamtImpl.fs', 5, 4, 4, 0, 0, 0, 4186
+'../in/flagged_repos/fsharp-hashcollections/before\2b8478068ed3a50c8e940e0bd669b7efd504b719\HashMap.fs', 4, 4, 4, 0, 1, 0, 1884
+'../in/flagged_repos/fsharp-hashcollections/before\2b8478068ed3a50c8e940e0bd669b7efd504b719\HashMapTest.fs', 27, 5, 5, 0, 0, 0, 2061
+'../in/flagged_repos/fsharp-hashcollections/before\2b8478068ed3a50c8e940e0bd669b7efd504b719\HashSet.fs', 4, 2, 2, 0, 0, 0, 1860
+'../in/flagged_repos/fsharp-hashcollections/before\2b8478068ed3a50c8e940e0bd669b7efd504b719\HashSetTest.fs', 30, 6, 6, 0, 0, 0, 2274
+'../in/flagged_repos/fsharp-hashcollections/before\b8f7fc5a536029945ea83dafb9dbbfb776cf9eca\HamtImpl.fs', 5, 4, 4, 0, 0, 0, 4170
+'../in/flagged_repos/fsharp-hashcollections/before\b8f7fc5a536029945ea83dafb9dbbfb776cf9eca\HashMap.fs', 3, 2, 2, 0, 0, 0, 1192
+'../in/flagged_repos/fsharp-hashcollections/before\b8f7fc5a536029945ea83dafb9dbbfb776cf9eca\HashMapTest.fs', 27, 5, 5, 0, 0, 0, 1678
+'../in/flagged_repos/fsharp-hashcollections/before\b8f7fc5a536029945ea83dafb9dbbfb776cf9eca\HashSet.fs', 4, 2, 2, 0, 0, 0, 1479
+'../in/flagged_repos/fsharp-hashcollections/before\b8f7fc5a536029945ea83dafb9dbbfb776cf9eca\HashSetTest.fs', 30, 6, 6, 0, 0, 0, 1923
+'../in/flagged_repos/fsharp-hashcollections/before\b8f7fc5a536029945ea83dafb9dbbfb776cf9eca\InternalTypes.fs', 0, 0, 0, 0, 0, 0, 148

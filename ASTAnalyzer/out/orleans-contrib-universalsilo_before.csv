@@ -1,0 +1,10 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/orleans-contrib-universalsilo/before\78ce366bb5760382129c473c1550b99406e87199\CalculatorController.fs', 0, 0, 0, 0, 0, 0, 234
+'../in/flagged_repos/orleans-contrib-universalsilo/before\78ce366bb5760382129c473c1550b99406e87199\CalculatorGrain.fs', 0, 0, 0, 0, 0, 0, 68
+'../in/flagged_repos/orleans-contrib-universalsilo/before\78ce366bb5760382129c473c1550b99406e87199\GrainTests.fs', 0, 0, 0, 0, 0, 0, 684
+'../in/flagged_repos/orleans-contrib-universalsilo/before\78ce366bb5760382129c473c1550b99406e87199\ICalculatorGrain.fs', 0, 0, 0, 0, 0, 0, 60
+'../in/flagged_repos/orleans-contrib-universalsilo/before\78ce366bb5760382129c473c1550b99406e87199\Program.fs', 1, 0, 0, 0, 0, 0, 441
+'../in/flagged_repos/orleans-contrib-universalsilo/before\7f001d81a40af57c2aaa2855e7cc520fa9408b7e\Client.fs', 5, 3, 0, 0, 1, 1, 1231
+'../in/flagged_repos/orleans-contrib-universalsilo/before\7f001d81a40af57c2aaa2855e7cc520fa9408b7e\Program.fs', 1, 0, 0, 0, 0, 0, 441
+'../in/flagged_repos/orleans-contrib-universalsilo/before\eb135b08c91b65fe93be8971d80597d78ce3db55\SiloConfigurator.fs', 8, 0, 0, 0, 2, 0, 1246
+'../in/flagged_repos/orleans-contrib-universalsilo/before\eb135b08c91b65fe93be8971d80597d78ce3db55\WebApiConfigurator.fs', 3, 0, 0, 0, 0, 2, 834

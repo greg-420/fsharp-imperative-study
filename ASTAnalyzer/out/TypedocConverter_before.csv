@@ -1,0 +1,12 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/TypedocConverter/before\28e4a849706328aafb15af85a9cb7778c0cc9b1c\Helpers.fs', 18, 0, 0, 1, 0, 0, 3901
+'../in/flagged_repos/TypedocConverter/before\28e4a849706328aafb15af85a9cb7778c0cc9b1c\Printer.fs', 4, 1, 1, 0, 1, 21, 5500
+'../in/flagged_repos/TypedocConverter/before\28e4a849706328aafb15af85a9cb7778c0cc9b1c\Program.fs', 8, 1, 1, 0, 0, 1, 1046
+'../in/flagged_repos/TypedocConverter/before\28e4a849706328aafb15af85a9cb7778c0cc9b1c\Tests.fs', 8, 1, 1, 0, 0, 1, 694
+'../in/flagged_repos/TypedocConverter/before\92971ca6cde5b7caac15006cc46d2809d562207e\Printer.fs', 13, 1, 1, 1, 1, 43, 7547
+'../in/flagged_repos/TypedocConverter/before\bba2e1eb073f8fe0641c68cfe0758f41084b1a5c\Definitions.fs', 0, 0, 0, 0, 0, 0, 1111
+'../in/flagged_repos/TypedocConverter/before\bba2e1eb073f8fe0641c68cfe0758f41084b1a5c\Entity.fs', 0, 0, 0, 0, 0, 0, 597
+'../in/flagged_repos/TypedocConverter/before\bba2e1eb073f8fe0641c68cfe0758f41084b1a5c\Helpers.fs', 18, 0, 0, 1, 0, 0, 4110
+'../in/flagged_repos/TypedocConverter/before\bba2e1eb073f8fe0641c68cfe0758f41084b1a5c\InterfaceClassParser.fs', 13, 0, 0, 0, 0, 0, 2226
+'../in/flagged_repos/TypedocConverter/before\bba2e1eb073f8fe0641c68cfe0758f41084b1a5c\Printer.fs', 5, 1, 1, 0, 1, 21, 5508
+'../in/flagged_repos/TypedocConverter/before\bba2e1eb073f8fe0641c68cfe0758f41084b1a5c\TypeAliasParser.fs', 0, 0, 0, 0, 0, 0, 510

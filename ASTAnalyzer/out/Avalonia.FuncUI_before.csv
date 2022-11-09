@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Avalonia.FuncUI/before\269f263d1872d69324f48870698991cf169f43b3\Types.fs', 0, 0, 0, 0, 0, 0, 422
+'../in/flagged_repos/Avalonia.FuncUI/before\269f263d1872d69324f48870698991cf169f43b3\Views.fs', 5, 2, 2, 0, 0, 0, 2724
+'../in/flagged_repos/Avalonia.FuncUI/before\269f263d1872d69324f48870698991cf169f43b3\VirtualDomTests.fs', 0, 0, 0, 0, 0, 0, 2114
+'../in/flagged_repos/Avalonia.FuncUI/before\a0ca5bdd1fd288e46bc66c64774865a4051851bf\MaskedTextBox.fs', 0, 0, 0, 1, 0, 0, 644

@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Plotly.NET/before\c07bc94440c726daa9b42d0117680899861909e1\Chart.fs', 0, 1, 1, 0, 12, 1, 24755
+'../in/flagged_repos/Plotly.NET/before\c07bc94440c726daa9b42d0117680899861909e1\ChartSmith.fs', 0, 0, 0, 0, 0, 1, 5524
+'../in/flagged_repos/Plotly.NET/before\c07bc94440c726daa9b42d0117680899861909e1\Edits.fs', 0, 0, 0, 0, 0, 0, 662

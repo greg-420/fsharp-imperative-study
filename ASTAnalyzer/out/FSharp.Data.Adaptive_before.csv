@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/FSharp.Data.Adaptive/before\277aed2927170a1bb9a9bc870cb731cb1414e891\AdaptiveObject.fs', 27, 0, 0, 0, 2, 0, 1596
+'../in/flagged_repos/FSharp.Data.Adaptive/before\277aed2927170a1bb9a9bc870cb731cb1414e891\Core.fs', 61, 5, 5, 0, 0, 0, 3286
+'../in/flagged_repos/FSharp.Data.Adaptive/before\277aed2927170a1bb9a9bc870cb731cb1414e891\Transaction.fs', 29, 3, 3, 0, 6, 0, 1677
+'../in/flagged_repos/FSharp.Data.Adaptive/before\ea69c3598e6596513020cb120aba1d08cdd21c7b\IndexList.fs', 17, 4, 4, 0, 6, 0, 8267

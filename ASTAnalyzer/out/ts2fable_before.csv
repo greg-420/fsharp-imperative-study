@@ -1,0 +1,4 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/ts2fable/before\c4c840bdd36233327cc99427d0f9c1f9a7597fb5\fsFileTests.fs', 0, 0, 0, 0, 0, 0, 1715
+'../in/flagged_repos/ts2fable/before\c4c840bdd36233327cc99427d0f9c1f9a7597fb5\ts2fable.fs', 0, 1, 1, 0, 0, 0, 250
+'../in/flagged_repos/ts2fable/before\c4c840bdd36233327cc99427d0f9c1f9a7597fb5\write.fs', 2, 1, 1, 0, 0, 0, 664

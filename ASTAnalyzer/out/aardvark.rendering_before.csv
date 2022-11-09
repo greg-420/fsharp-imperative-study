@@ -1,0 +1,15 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/aardvark.rendering/before\1316f5fe36b94db192161d4b03adc2ec4a51e282\PipelineLayout.fs', 22, 10, 10, 0, 1, 0, 2598
+'../in/flagged_repos/aardvark.rendering/before\4089ebc1492d2d2f411e6b34dc3694e26f6d854e\Program.fs', 8, 4, 4, 1, 0, 0, 1965
+'../in/flagged_repos/aardvark.rendering/before\4089ebc1492d2d2f411e6b34dc3694e26f6d854e\ResourceManager.fs', 67, 18, 18, 2, 10, 0, 15114
+'../in/flagged_repos/aardvark.rendering/before\58e8f7bf42b7419fded8c7d9d8bcc35ba0518b1b\Texture.fs', 111, 7, 7, 13, 53, 0, 26154
+'../in/flagged_repos/aardvark.rendering/before\8e13635ae02a2459adc02f2663e1bf2349e10e71\Program.fs', 26, 20, 20, 10, 2, 0, 5412
+'../in/flagged_repos/aardvark.rendering/before\8e13635ae02a2459adc02f2663e1bf2349e10e71\SceneGraph.fs', 40, 0, 0, 0, 0, 0, 4904
+'../in/flagged_repos/aardvark.rendering/before\a6f82b90b596b86bdc0a4642ffa16aa9fc58cf36\RenderTask.fs', 29, 10, 6, 4, 3, 0, 4161
+'../in/flagged_repos/aardvark.rendering/before\a7a96eb7dec23dada3a7a3356a8f46e81d153b64\ContextHandles.fs', 18, 3, 3, 0, 4, 0, 1781
+'../in/flagged_repos/aardvark.rendering/before\a7a96eb7dec23dada3a7a3356a8f46e81d153b64\GeometryPool.fs', 88, 9, 8, 19, 11, 0, 14217
+'../in/flagged_repos/aardvark.rendering/before\b51c8a63186c80b84d068635abc8f432981a0583\SceneGraph.fs', 44, 0, 0, 0, 0, 0, 5416
+'../in/flagged_repos/aardvark.rendering/before\cd3d939aba4284a2212aeff4b7f9e0f6a70f1507\ManagedPool.fs', 32, 9, 9, 3, 5, 0, 6044
+'../in/flagged_repos/aardvark.rendering/before\e5f5375c2870cf57b36b49f0000a671b45e1929b\Uniforms.fs', 1, 2, 2, 0, 1, 0, 2706
+'../in/flagged_repos/aardvark.rendering/before\f6e753172c998ffecb4fe1dde4cf00642d84106f\ResourceManager.fs', 52, 5, 3, 3, 4, 0, 9384
+'../in/flagged_repos/aardvark.rendering/before\fb873f7b3de891c36a970d6d8059e3f2e8ac9a16\ResourceManagement.fs', 35, 3, 3, 0, 1, 0, 6067

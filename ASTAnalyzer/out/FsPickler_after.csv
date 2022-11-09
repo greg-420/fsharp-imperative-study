@@ -1,0 +1,13 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/FsPickler/after\11ea025efcd0b9c3a5a87a1cdb57415c1529a1cc\PicklerGenerator.fs', 0, 0, 0, 0, 3, 0, 3659
+'../in/flagged_repos/FsPickler/after\16acea783a335b274c6958054bcb25748425c099\JsonReader.fs', 10, 5, 0, 0, 5, 1, 2217
+'../in/flagged_repos/FsPickler/after\16acea783a335b274c6958054bcb25748425c099\SerializerTests.fs', 6, 6, 11, 17, 9, 5, 11395
+'../in/flagged_repos/FsPickler/after\3b9e2c9f799616af173d6644f8fef26d632b49c3\BsonFormat.fs', 0, 0, 0, 0, 0, 1, 297
+'../in/flagged_repos/FsPickler/after\3b9e2c9f799616af173d6644f8fef26d632b49c3\Common.fs', 5, 1, 1, 0, 1, 1, 876
+'../in/flagged_repos/FsPickler/after\3b9e2c9f799616af173d6644f8fef26d632b49c3\JsonFormat.fs', 2, 0, 0, 0, 0, 1, 570
+'../in/flagged_repos/FsPickler/after\3b9e2c9f799616af173d6644f8fef26d632b49c3\JsonReader.fs', 10, 5, 0, 0, 5, 1, 2373
+'../in/flagged_repos/FsPickler/after\46bf0065f0f7330f5b406f1e117eb806834d3fbd\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 104
+'../in/flagged_repos/FsPickler/after\82735af6ad011b1a9562ec6579084a1e4d5034f8\PicklerResolution.fs', 1, 2, 1, 0, 3, 0, 848
+'../in/flagged_repos/FsPickler/after\82735af6ad011b1a9562ec6579084a1e4d5034f8\Types.fs', 8, 2, 2, 2, 0, 1, 2425
+'../in/flagged_repos/FsPickler/after\86d0824acd486af407da2194a9942d05d7020df0\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 104
+'../in/flagged_repos/FsPickler/after\d5a70fb05f699bfe5ddbbebad5e390d90ad8a356\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 79

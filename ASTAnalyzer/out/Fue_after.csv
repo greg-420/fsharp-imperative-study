@@ -1,0 +1,9 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/Fue/after\38267f888f9e4589ac7115a6fc294787e4eac18a\Compiler.fs', 0, 1, 1, 2, 0, 1, 3374
+'../in/flagged_repos/Fue/after\38267f888f9e4589ac7115a6fc294787e4eac18a\NodeCompiler.fs', 0, 2, 2, 0, 0, 0, 1942
+'../in/flagged_repos/Fue/after\38267f888f9e4589ac7115a6fc294787e4eac18a\Reflection.fs', 0, 1, 1, 2, 0, 0, 378
+'../in/flagged_repos/Fue/after\38267f888f9e4589ac7115a6fc294787e4eac18a\Rop.fs', 0, 0, 0, 0, 2, 0, 782
+'../in/flagged_repos/Fue/after\38267f888f9e4589ac7115a6fc294787e4eac18a\ValueCompiler.fs', 0, 0, 0, 3, 0, 0, 975
+'../in/flagged_repos/Fue/after\5dcc8b86c655b657fa1ec309ae08a6f32fca4015\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 125
+'../in/flagged_repos/Fue/after\5dcc8b86c655b657fa1ec309ae08a6f32fca4015\Parser.fs', 0, 2, 2, 0, 0, 0, 1534
+'../in/flagged_repos/Fue/after\d6409779452d34e11a428d6359a8a5a6c60dbde0\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 125

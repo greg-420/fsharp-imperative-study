@@ -1,0 +1,7 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/fantomas/before\24ee3b1a039d8893894a5b063a90f07bd2569e69\CodePrinter.fs', 0, 0, 0, 0, 6, 0, 45110
+'../in/flagged_repos/fantomas/before\24ee3b1a039d8893894a5b063a90f07bd2569e69\SynTypeDefnSimpleReprRecordTests.fs', 0, 0, 0, 0, 0, 0, 339
+'../in/flagged_repos/fantomas/before\bd690fed3ad829bfb11b4c2730904707179ceca7\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 216
+'../in/flagged_repos/fantomas/before\bd690fed3ad829bfb11b4c2730904707179ceca7\CodeFormatter.fs', 4, 0, 0, 3, 5, 1, 1479
+'../in/flagged_repos/fantomas/before\bd690fed3ad829bfb11b4c2730904707179ceca7\FormattingSelectionTests.fs', 0, 0, 0, 0, 0, 0, 162
+'../in/flagged_repos/fantomas/before\e1bd9638e60461020f803e443bab95c82c591211\SourceParser.fs', 0, 0, 0, 0, 5, 0, 19523

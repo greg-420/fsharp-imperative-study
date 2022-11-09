@@ -1,0 +1,8 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/RProvider/before\360e14a4610d6062324c0e9130b1cfa5e7aa624e\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 85
+'../in/flagged_repos/RProvider/before\360e14a4610d6062324c0e9130b1cfa5e7aa624e\RData.fs', 2, 3, 1, 0, 1, 1, 663
+'../in/flagged_repos/RProvider/before\360e14a4610d6062324c0e9130b1cfa5e7aa624e\RProvider.fs', 0, 3, 1, 0, 1, 1, 212
+'../in/flagged_repos/RProvider/before\360e14a4610d6062324c0e9130b1cfa5e7aa624e\RTypeBuilder.fs', 0, 2, 3, 3, 2, 2, 1140
+'../in/flagged_repos/RProvider/before\6de9bae4ccbf2bfe65734febf5d5f3fb10c02294\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 66
+'../in/flagged_repos/RProvider/before\d4a3c539ced4aa39b9220de33aed864a64d693d9\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 85
+'../in/flagged_repos/RProvider/before\d4e3bdee3a6e2050579b35e003150413c9d40bf3\AssemblyInfo.fs', 0, 1, 0, 0, 0, 0, 85

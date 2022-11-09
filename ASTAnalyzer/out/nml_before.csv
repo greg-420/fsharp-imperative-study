@@ -1,0 +1,3 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/nml/before\227314b3fc015270b594b9d023746acd7edbeef1\parsedAst.fs', 0, 0, 0, 0, 6, 1, 4893
+'../in/flagged_repos/nml/before\dfa0f9b98cb1e34280f596813da1b74899b05434\typer.fs', 0, 0, 0, 0, 6, 0, 8648

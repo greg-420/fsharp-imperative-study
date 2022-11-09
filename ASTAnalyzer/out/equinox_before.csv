@@ -1,0 +1,5 @@
+Path, MutableCount, DoCount, LoopCount, ArrayCount, ExceptionCount, IOCount, TokenCount
+'../in/flagged_repos/equinox/before\b7fdb7a4f18bdfb4346e54ec57bac894728acded\CodecIntegration.fs', 0, 0, 0, 1, 0, 0, 576
+'../in/flagged_repos/equinox/before\b7fdb7a4f18bdfb4346e54ec57bac894728acded\CosmosInternalJson.fs', 0, 0, 0, 0, 0, 2, 537
+'../in/flagged_repos/equinox/before\b7fdb7a4f18bdfb4346e54ec57bac894728acded\JsonConverterTests.fs', 0, 0, 0, 2, 0, 0, 1150
+'../in/flagged_repos/equinox/before\b7fdb7a4f18bdfb4346e54ec57bac894728acded\RenderedEvent.fs', 0, 0, 0, 0, 0, 0, 143
